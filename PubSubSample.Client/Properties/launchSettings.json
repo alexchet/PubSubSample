@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PubSubSample.Client": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
